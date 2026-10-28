@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.test-build/
+out/
+.local/
+*.log
+*.pfx
+*.p12
+.env

@@ -1,0 +1,34 @@
+{
+  "name": "daic",
+  "productName": "DAIC",
+  "version": "0.1.0",
+  "description": "Локальний десктопний персонаж Ї для Windows",
+  "author": "skylineua",
+  "private": true,
+  "main": "dist/main/index.js",
+  "scripts": {
+    "build": "tsc && node scripts/copy-assets.cjs",
+    "typecheck": "tsc --noEmit",
+    "prestart": "npm run build",
+    "start": "node scripts/start.cjs",
+    "test": "tsc -p tsconfig.tests.json && node --test tests/*.test.cjs",
+    "check:artwork": "node scripts/check-artwork.cjs",
+    "test:smoke": "npm run build && node scripts/smoke-electron.cjs",
+    "prepackage": "npm run build",
+    "package": "electron-forge package --platform=win32 --arch=x64",
+    "premake": "npm run build",
+    "make": "electron-forge make --platform=win32 --arch=x64"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "1.0.1"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "8.0.1",
+    "@electron-forge/maker-squirrel": "8.0.1",
+    "@types/electron-squirrel-startup": "1.0.2",
+    "@types/node": "24.19.2",
+    "electron": "45.1.0",
+    "playwright": "1.64.1",
+    "typescript": "6.0.3"
+  }
+}

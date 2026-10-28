@@ -1,0 +1,214 @@
+{
+  "anchorSlug": "daic-crystal-yi-neutral-refined",
+  "baselineY": 479,
+  "format": "sprite-studio",
+  "fps": 24.0,
+  "frameCount": 8,
+  "frameHeight": 512,
+  "frameWidth": 512,
+  "frames": [
+    {
+      "assetId": "56eb5521-2c7f-4d6c-bdc6-afef45b1a212",
+      "durationMs": 83,
+      "height": 512,
+      "index": 0,
+      "source": "assets\\characters\\daic-crystal-yi-blink_01.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "assetId": "64826535-f48f-4737-8556-216afb49c71f",
+      "durationMs": 42,
+      "height": 512,
+      "index": 1,
+      "source": "assets\\characters\\daic-crystal-yi-blink_02.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 512,
+      "y": 0
+    },
+    {
+      "assetId": "6f97d567-93e2-4290-8ca2-dac97f68adde",
+      "durationMs": 83,
+      "height": 512,
+      "index": 2,
+      "source": "assets\\characters\\daic-crystal-yi-blink_03.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 1024,
+      "y": 0
+    },
+    {
+      "assetId": "55ff4fc8-6fab-4473-8033-ba61c5295e70",
+      "durationMs": 83,
+      "height": 512,
+      "index": 3,
+      "source": "assets\\characters\\daic-crystal-yi-blink_04.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 1536,
+      "y": 0
+    },
+    {
+      "assetId": "d7140a12-c87a-4ed5-a694-59731a874894",
+      "durationMs": 83,
+      "height": 512,
+      "index": 4,
+      "source": "assets\\characters\\daic-crystal-yi-blink_05.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 2048,
+      "y": 0
+    },
+    {
+      "assetId": "640a028b-7fce-4f53-83e2-4616e8196d32",
+      "durationMs": 83,
+      "height": 512,
+      "index": 5,
+      "source": "assets\\characters\\daic-crystal-yi-blink_06.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 2560,
+      "y": 0
+    },
+    {
+      "assetId": "f9fd35d0-1003-47d8-a5ea-1af1f86edd0a",
+      "durationMs": 83,
+      "height": 512,
+      "index": 6,
+      "source": "assets\\characters\\daic-crystal-yi-blink_07.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 3072,
+      "y": 0
+    },
+    {
+      "assetId": "317c8340-5b3c-45af-96fc-fe06e2ec6e60",
+      "durationMs": 83,
+      "height": 512,
+      "index": 7,
+      "source": "assets\\characters\\daic-crystal-yi-blink_08.png",
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 512,
+      "x": 3584,
+      "y": 0
+    }
+  ],
+  "image": "daic-crystal-yi-blink.png",
+  "loop": false,
+  "name": "daic-crystal-yi-blink",
+  "pivot": {
+    "x": 256.0,
+    "y": 446.0
+  },
+  "sourceSize": {
+    "h": 512,
+    "w": 512
+  }
+}

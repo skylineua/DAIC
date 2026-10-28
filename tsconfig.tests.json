@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "outDir": ".test-build" },
+  "include": ["src/main/SettingsService.ts", "src/main/PositionService.ts", "src/main/characterLayout.ts"]
+}
